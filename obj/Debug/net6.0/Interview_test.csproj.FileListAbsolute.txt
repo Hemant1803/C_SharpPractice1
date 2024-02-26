@@ -1,0 +1,14 @@
+C:\Users\hshem\source\repos\Interview_test\obj\Debug\net6.0\Interview_test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hshem\source\repos\Interview_test\obj\Debug\net6.0\Interview_test.AssemblyInfoInputs.cache
+C:\Users\hshem\source\repos\Interview_test\obj\Debug\net6.0\Interview_test.AssemblyInfo.cs
+C:\Users\hshem\source\repos\Interview_test\obj\Debug\net6.0\Interview_test.csproj.CoreCompileInputs.cache
+C:\Users\hshem\source\repos\Interview_test\bin\Debug\net6.0\Interview_test.exe
+C:\Users\hshem\source\repos\Interview_test\bin\Debug\net6.0\Interview_test.deps.json
+C:\Users\hshem\source\repos\Interview_test\bin\Debug\net6.0\Interview_test.runtimeconfig.json
+C:\Users\hshem\source\repos\Interview_test\bin\Debug\net6.0\Interview_test.dll
+C:\Users\hshem\source\repos\Interview_test\bin\Debug\net6.0\Interview_test.pdb
+C:\Users\hshem\source\repos\Interview_test\obj\Debug\net6.0\Interview_test.dll
+C:\Users\hshem\source\repos\Interview_test\obj\Debug\net6.0\refint\Interview_test.dll
+C:\Users\hshem\source\repos\Interview_test\obj\Debug\net6.0\Interview_test.pdb
+C:\Users\hshem\source\repos\Interview_test\obj\Debug\net6.0\Interview_test.genruntimeconfig.cache
+C:\Users\hshem\source\repos\Interview_test\obj\Debug\net6.0\ref\Interview_test.dll
